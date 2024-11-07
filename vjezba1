@@ -1,0 +1,30 @@
+<?php
+// PHP blok na početku dokumenta prije HTML deklaracije
+?>
+
+<!DOCTYPE html>
+<html lang="hr">
+<head>
+    <!-- META elementi za responzivnost, opis i ključne riječi -->
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta name="description" content="Stranica posvećena knjizi Da Vincijev kod autora Dana Browna">
+    <meta name="keywords" content="Da Vincijev kod, Dan Brown, kriminalistički triler, knjiga">
+    
+    <!-- Naslov dokumenta -->
+    <title>Da Vincijev kod</title>
+</head>
+<body>
+    <!-- Naslov i tekst -->
+    <h1>Da Vincijev kod</h1>
+    <p>Da Vincijev kod je kriminalistički triler američkog pisca Dana Browna.</p>
+
+    <!-- Poveznica koja se otvara u novom prozoru -->
+    <p>
+        <a href="https://hr.wikipedia.org/Da_Vincijev_kod" target="_blank">Pročitajte više o knjizi</a>
+    </p>
+</body>
+
+<!-- Komentar s imenom dokumenta -->
+<!-- Ime dokumenta: DaVincijevKod.html -->
+</html>
